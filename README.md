@@ -1,6 +1,6 @@
 # springboot-websocket-demo
 
-WebSocket入门教程示例代码
+WebSocket入门教程示例代码（注：转存https://github.com/qqxx6661/springboot-websocket-demo）
 
 
 
